@@ -1,0 +1,13 @@
+D:\git\KodlamaOdev5\KodlamaOdev5\bin\Debug\netcoreapp3.1\KodlamaOdev5.exe
+D:\git\KodlamaOdev5\KodlamaOdev5\bin\Debug\netcoreapp3.1\KodlamaOdev5.deps.json
+D:\git\KodlamaOdev5\KodlamaOdev5\bin\Debug\netcoreapp3.1\KodlamaOdev5.runtimeconfig.json
+D:\git\KodlamaOdev5\KodlamaOdev5\bin\Debug\netcoreapp3.1\KodlamaOdev5.runtimeconfig.dev.json
+D:\git\KodlamaOdev5\KodlamaOdev5\bin\Debug\netcoreapp3.1\KodlamaOdev5.dll
+D:\git\KodlamaOdev5\KodlamaOdev5\bin\Debug\netcoreapp3.1\KodlamaOdev5.pdb
+D:\git\KodlamaOdev5\KodlamaOdev5\obj\Debug\netcoreapp3.1\KodlamaOdev5.csprojAssemblyReference.cache
+D:\git\KodlamaOdev5\KodlamaOdev5\obj\Debug\netcoreapp3.1\KodlamaOdev5.AssemblyInfoInputs.cache
+D:\git\KodlamaOdev5\KodlamaOdev5\obj\Debug\netcoreapp3.1\KodlamaOdev5.AssemblyInfo.cs
+D:\git\KodlamaOdev5\KodlamaOdev5\obj\Debug\netcoreapp3.1\KodlamaOdev5.csproj.CoreCompileInputs.cache
+D:\git\KodlamaOdev5\KodlamaOdev5\obj\Debug\netcoreapp3.1\KodlamaOdev5.dll
+D:\git\KodlamaOdev5\KodlamaOdev5\obj\Debug\netcoreapp3.1\KodlamaOdev5.pdb
+D:\git\KodlamaOdev5\KodlamaOdev5\obj\Debug\netcoreapp3.1\KodlamaOdev5.genruntimeconfig.cache
