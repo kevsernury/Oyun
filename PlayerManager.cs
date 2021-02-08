@@ -4,7 +4,7 @@ using System.Text;
 
 namespace KodlamaOdev5
 {
-    class PlayerManager
+    class PlayerManager:IPlayerService
     {
         public void AddPlayer(Player player)
         {

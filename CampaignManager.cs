@@ -4,7 +4,7 @@ using System.Text;
 
 namespace KodlamaOdev5
 {
-    class CampaignManager
+    class CampaignManager:ICampaignService
     {
         public void AddCampaign(Campaign campaign)
         {

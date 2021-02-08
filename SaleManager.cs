@@ -4,7 +4,7 @@ using System.Text;
 
 namespace KodlamaOdev5
 {
-    class SaleManager
+    class SaleManager:ISaleService
     {
         public void Sale(Player player)
         {
